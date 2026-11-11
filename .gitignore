@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Pocketdev internal files & archives
+.pocketdev/
+*.zip
+
+# Runtime data & caches
+data/*
+!data/.gitkeep
+
+# Pyrogram session files
+*.session
+*.session-journal
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
